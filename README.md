@@ -18,7 +18,8 @@ The objective of the HR Analysis Dashboard is to analyze employee distribution, 
 - What is the **work location distribution (Office, Remote, Branch)**?
 - How do **skills vary across employees**?
 
-- Dashboard Interaction <a href="https://github.com/himanshugeek12/HR-Analysis-Dashboard/blob/master/HR-Analysis-Dashboard.png">View Dashboard</a>
+
+-Dashboard Interaction <a href="https://github.com/himanshugeek12/HR-Analysis-Dashboard/blob/master/HR-Analysis-Dashboard.png">View Dashboard</a>
 
 ## 🔄 Process
 - Verified dataset for missing values and inconsistencies.
