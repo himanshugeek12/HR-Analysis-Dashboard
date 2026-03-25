@@ -4,7 +4,7 @@
 The objective of the HR Analysis Dashboard is to analyze employee distribution, performance, salary insights, and workforce trends across departments and regions. This dashboard helps HR teams understand employee demographics, optimize workforce planning, and improve decision-making.
 
 ## Dataset used 
-- <a href="#">Dataset</a>
+- <a href="https://github.com/himanshugeek12/HR-Analysis-Dashboard/blob/master/HR%20Analysts-Excel%20Dashboard.xlsx">Dataset</a>
 
 ## ❓ Key Questions (KPIs)
 - What is the **total number of employees**?
@@ -18,7 +18,7 @@ The objective of the HR Analysis Dashboard is to analyze employee distribution, 
 - What is the **work location distribution (Office, Remote, Branch)**?
 - How do **skills vary across employees**?
 
-- Dashboard Interaction <a href="#">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/himanshugeek12/HR-Analysis-Dashboard/blob/master/HR-Analysis-Dashboard.png">View Dashboard</a>
 
 ## 🔄 Process
 - Verified dataset for missing values and inconsistencies.
@@ -38,7 +38,7 @@ The objective of the HR Analysis Dashboard is to analyze employee distribution, 
 - Applied slicers for dynamic filtering (Gender, Department).
 
 ## 📷 **Dashboard Preview:**  
-![HR Dashboard](your-image-link-here)
+![HR Dashboard](https://github.com/himanshugeek12/HR-Analysis-Dashboard/blob/master/HR-Analysis-Dashboard.png)
 
 ## 🔍 Project Insights
 - **Total employees are 50**, with a slightly higher **female workforce (52%)** compared to males (48%).
